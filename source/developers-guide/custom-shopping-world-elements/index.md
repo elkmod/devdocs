@@ -15,7 +15,7 @@ menu_order: 10
 
 <img src="img/screenshot_emotion_elements.jpg" alt="Shopping worlds" />
 
-The shopping worlds are one highlight feature of Shopware. Here you can edit various impressions of your shop within one design view in the backed, where you can freely position products, images, banners, HTML text, videos and much more. As a developer you are able to extend the module with new interesting elements which the user can place on his page.
+The shopping worlds are one highlight feature of Shopware. Here you can edit various impressions of your shop within one design view in the backend, where you can freely position products, images, banners, HTML text, videos and much more. As a developer you are able to extend the module with new interesting elements which the user can place on his page.
 
 <div class="toc-list"></div>
 

@@ -45,7 +45,7 @@ an AOP based paradigm. The up and downsides of this will be discussed in the [Be
 Technically speaking the hook system makes use of the [proxy pattern](http://en.wikipedia.org/wiki/Proxy_pattern). Hookable
 classes are not instantiated directly but with a generated proxy class, which inherits from the hooked class. 
 
-Whenever you request a core class, e.g. via `Shopware()->Modules()->Article()`, Shopware will return such a proxy for the
+Whenever you request a core class, e.g. via `Shopware()->Modules()->Articles()`, Shopware will return such a proxy for the
 class name (see \Shopware_Components_Modules::loadModule for more details). You can test it easily by printing out the class
 name of your article core class: `echo get_class(Shopware()->Modules()->Articles());` will print `Shopware_Proxies_sArticlesProxy`. 
 

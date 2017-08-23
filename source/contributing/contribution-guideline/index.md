@@ -102,7 +102,7 @@ When you create a new pull request on GitHub normally it will get a first sight 
 So the worst thing happened, your pull request was declined. No reason to be upset. We know that it sometimes can be hard to understand why your pull request was rejected. We want be as transparent as possible, but sometimes it can also rely on internal decisions. Here is a list with common reasons why we reject a pull request.
 
 - The pull request does not fulfill the requirements of the list above.
-- You did not updated your pull request with the necessary info after a specific label was added.
+- You did not update your pull request with the necessary info after a specific label was added.
 - The change you made is already a part of a current change by shopware and is handled internally.
 - The benefit of your change is not relevant for the whole product but only for your personal intent.
 - The benefit of your change is too minor. Sometimes we do not have enough resources to handle every small change.
