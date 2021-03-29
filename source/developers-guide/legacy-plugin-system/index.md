@@ -10,8 +10,6 @@ menu_title: The legacy Plugin System
 menu_order: 120
 ---
 
-<div class="toc-list"></div>
-
 ## Directory Structure
 
 The legacy Plugins are located in the `/.../engine/Shopware/Plugins/( Community | Default  | Local )/` directory. There is a separation in `Frontend`, `Core` or `Backend`.

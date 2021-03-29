@@ -9,8 +9,6 @@ menu_title: Using CSS and JavaScript
 menu_order: 50
 ---
 
-<div class="toc-list"></div>
-
 ## The theme compiler
 Shopware uses a compiler to concatenate and minify resource files like CSS and JavaScript to single compressed files. This reduces the file size and the amount of server requests. It is highly recommended to add your files to the compiler, too. The generated files are added to the template automatically, so you don't have to worry about including your files at all.
 

@@ -12,8 +12,6 @@ menu_title: Setting up PhpStorm
 menu_order: 5
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 PhpStorm is a PHP IDE that many of the Shopware Developers use on a daily basis.

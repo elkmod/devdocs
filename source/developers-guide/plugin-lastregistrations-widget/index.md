@@ -15,8 +15,6 @@ menu_order: 30
 
 <img src="img/widget.jpg" alt="Last Registrations Widget" />
 
-<div class="toc-list"></div>
-
 ## Introduction ##
 In this guide we will create our own backend widget plugin for the new shopware 5.2 plugin system. 
 This plugin will show some information about the last registered users in a handy widget.

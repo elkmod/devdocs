@@ -9,8 +9,6 @@ menu_title: jQuery plugins & the StateManager
 menu_order: 70
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 Javascript development can be painful especially when you have to deal with responsive websites where you have to adjust the behavior of the code based on the available screen real estate. Therefore we came up with a component called *StateManager*, which provides you with the ability to define states and triggers a *callback* function, if a state was entered or left.
 

@@ -16,8 +16,6 @@ The attribute system allows developers and users to configure additional fields 
 
 Developers can define new attributes over the database or use the corresponding service `Shopware\Bundle\AttributeBundle\Service\CrudService`.
 
-<div class="toc-list"></div>
-
 ## Services
 The `Shopware\Bundle\AttributeBundle` contains the following services:
 

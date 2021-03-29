@@ -10,8 +10,6 @@ menu_title: Lightweight backend modules
 menu_order: 80
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 Shopware 5.1 comes with an useful feature which is specially interesting for developers who would love to create a backend module for their plugin, but don't want to deal with the steep learning curve of ExtJS. In the following article you'll get to know this new technology.
 

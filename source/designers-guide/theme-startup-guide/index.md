@@ -9,8 +9,6 @@ menu_title: Theme Startup Guide
 menu_order: 10
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This guide will introduce you to the new features and additions to the new Shopware 5 default "Responsive" theme, which is a cross browser compatible, retina ready, responsive HTML5 / CSS3 theme with touch support. It features a clean and unique design and many new features, such as a powerful backend module, new product displays and infinite scrolling. We've optimized the Responsive theme for the following devices:
 

@@ -10,8 +10,6 @@ menu_title: Range slider algorithm
 menu_order: 60
 ---
 
-<div class="toc-list"></div>
-
 ## The Problem
 
 In Shopware 5, we introduced our new filter system. With this new filter system, there is a range slider which is used as price range slider too.

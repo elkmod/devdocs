@@ -11,8 +11,6 @@ redirect:
   - /contributing/contributing-code/
 ---
 
-<div class="toc-list"></div>
-
 ## Configure Git
 
 Set up your user information with your real name and a working email address:

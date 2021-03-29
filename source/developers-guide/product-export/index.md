@@ -15,8 +15,6 @@ menu_title: Product exports
 menu_order: 600
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This article will show examples for extending product exports in shopware
 

@@ -18,8 +18,6 @@ It contains the Apache2 Web Server, MySQL Server as well as all required tools, 
 
 Please note that Vagrant setup does not contain a Shopware installation. The installation has to be done manually.
 
-<div class="toc-list"></div>
-
 ## Provisioning
 
 Download the required software:

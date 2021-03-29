@@ -10,8 +10,6 @@ group: Developer Guides
 subgroup: REST API
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 The following page of the devdocs covers the REST API.

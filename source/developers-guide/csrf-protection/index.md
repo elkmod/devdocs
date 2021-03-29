@@ -19,8 +19,6 @@ This article will focus CSRF attack protection, a new security feature included 
 
 *Source: [Open Web Application Security Project](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))*
 
-<div class="toc-list"></div>
-
 ## Attack scenario
 
 Most of the times, the attacker uses a third party trusted website or an email to perform this attack. Suppose a victim is logged in on your shop website and finds a link on a 3rd party forum which opens a specially crafted link to your shop website. He clicks on the link and triggers a malicious request to your shop website.

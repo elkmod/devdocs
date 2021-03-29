@@ -9,8 +9,6 @@ menu_title: How to find smarty blocks
 menu_order: 10
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 In the following we'll guide you through the process of how to find Smarty blocks in the Shopware template files. It does not always seem easy, but here are some tips to help you find the necessary block.
 

@@ -17,8 +17,6 @@ menu_order: 10
 
 The shopping worlds are one highlight feature of Shopware. Here you can edit various impressions of your shop within one design view in the backed, where you can freely position products, images, banners, HTML text, videos and much more. As a developer you are able to extend the module with new interesting elements which the user can place on his page.
 
-<div class="toc-list"></div>
-
 ## Registering a new element ##
 For creating custom shopping world elements Shopware provides some helper functions which can be used where the DependencyInjectionContainer is available. So all you have to do is to get the `shopware.emotion_component_installer` service in a simple plugin where you can register one ore more elements via the `createOrUpdate()` method. As an example for this tutorial we will create a Vimeo element for adding videos to the shopping world.
 

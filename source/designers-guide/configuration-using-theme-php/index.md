@@ -9,8 +9,6 @@ menu_title: Custom theme configuration
 menu_order: 80
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 The `Theme.php` is the base file of each Shopware theme. It contains the basic information like the name, author, description and the license, which are displayed in the Theme Manager:

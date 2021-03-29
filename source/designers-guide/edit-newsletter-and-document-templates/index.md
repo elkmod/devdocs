@@ -9,8 +9,6 @@ menu_title: Edit newsletter and document templates
 menu_order: 50
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 In this guide you will learn how to modify the default appearance of Shopware's newsletter and document templates.

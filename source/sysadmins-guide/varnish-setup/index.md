@@ -12,8 +12,6 @@ menu_title: Varnish setup
 menu_order: 70
 ---
 
-<div class="toc-list"></div>
-
 ## Support
 Please note that shopware AG only supports Varnish cache configuration for customers with Shopware Enterprise licenses.
 

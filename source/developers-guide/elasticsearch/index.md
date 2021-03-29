@@ -13,8 +13,6 @@ menu_title: Elasticsearch
 menu_order: 40
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 In this guide we introduce the Elasticsearch (ES) integration for Shopware.
 

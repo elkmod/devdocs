@@ -9,8 +9,6 @@ menu_title: Service extensions
 menu_order: 130
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 The new bundle services like __StoreFrontBundle__, __SearchBundle__ or __SearchBundleDBAL__

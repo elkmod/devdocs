@@ -10,8 +10,6 @@ group: Developer Guides
 subgroup: REST API
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 In this article, you will find examples of the `article` resource usage for different operations. For each analyzed scenario, we provide an example of the data that you are expected to provide to the API, as well as an example response.

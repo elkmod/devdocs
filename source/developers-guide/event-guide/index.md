@@ -13,8 +13,6 @@ In order to extend Shopware or modify its behavior you will need some sort of ex
 hook onto Shopware. The following guide will give an overview of event systems in general and the Shopware event system
 specifically
 
-<div class="toc-list"></div>
-
 ## What is an "event system"?
 Event systems also known as [publish subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 are basically a pattern to layout software. They allow to emit an event at any point in the software - and let other pieces

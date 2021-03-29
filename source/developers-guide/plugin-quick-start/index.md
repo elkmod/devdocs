@@ -12,8 +12,6 @@ menu_order: 10
 ---
 This document will give you a brief overview of Shopware and everything you need to start developing your first plugin.
 
-<div class="toc-list"></div>
-
 ## Directory structure
 
 On the left you can see Shopware's default directory structure, as you will find in GitHub checkouts or release packages. Let's start with a quick overview:

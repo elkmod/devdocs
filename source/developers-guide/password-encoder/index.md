@@ -17,8 +17,6 @@ By default, Shopware will use the best available password hashing algorithm on y
 
 If you are importing customer data from other shops, however, you might want to support the old hashing algorithm, so that your customers can still log in without changing their passwords.
 
-<div class="toc-list"></div>
-
 ## General concept
 Any customer's password data is stored in two fields in the `s_user` table: The *hash* of the password and the responsible *encoder*, which takes care of hashing / comparing the password.
 The default password encoder is defined in the backend settings of Shopware. In the *auto* configuration (default) Shopware will automatically pick the best hash algorithm available. 

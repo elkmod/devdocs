@@ -14,8 +14,6 @@ menu_title: Captcha
 menu_order: 120
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 This article will show you how to implement your own [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA).

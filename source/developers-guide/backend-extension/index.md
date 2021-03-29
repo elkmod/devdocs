@@ -18,8 +18,6 @@ menu_order: 10
 The Shopware backend, with its powerful JavaScript framework, offers many tools to design nice interfaces for the end user.
 This document will describe how existing modules can be extended.
 
-<div class="toc-list"></div>
-
 ## The general mechanism
 This is a technical description of the mechanisms you might find helpful when extending backend applications. If you want, you can fast forward to the [next section](#extending).
 

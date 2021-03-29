@@ -9,8 +9,6 @@ menu_title: Datepicker
 menu_order: 50
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 The datepicker jQuery plugin was added in Shopware version 5.3 and allows you to easily add a functional datepicker to your themes and plugins, it is based on [flatpickr](https://github.com/chmln/flatpickr) with custom styling added to it.

@@ -10,8 +10,6 @@ menu_title: Managing dependencies with NPM
 menu_order: 100
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 Modern web applications like a Shopware web shop have to deal with many frontend dependencies. There are several tools
 available which help manage these dependencies. In the following guide we'll provide you with the information you

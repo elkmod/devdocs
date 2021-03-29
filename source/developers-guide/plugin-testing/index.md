@@ -9,8 +9,6 @@ menu_title: Plugin testing
 menu_order: 80
 ---
 
-<div class="toc-list"></div>
-
 ## Unit tests
 If you want to start writing a new plugin keep in mind that unit testing helps you to deliver higher quality plugins.
 With help of the __[cli tools](https://github.com/shopwareLabs/sw-cli-tools)__ you can easily start with plugin skeleton which has all relevant snippets to start directly with testing.

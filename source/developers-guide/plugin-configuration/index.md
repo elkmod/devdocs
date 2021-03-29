@@ -11,8 +11,6 @@ menu_order: 70
 This document will give you a brief introduction about how to set configuration options for plugins, which tags and attributes are available and how to use them.
 All configurations is done with help of the `config.xml` file resulting in the examples shown here.
 
-<div class="toc-list"></div>
-
 ## Introduction
 After getting a short introduction by reading the Plugin Quick Introduction, we will now be introduced to
 the configuration options for plugins. Shopware delivers a big amount of helper functions for generating standard

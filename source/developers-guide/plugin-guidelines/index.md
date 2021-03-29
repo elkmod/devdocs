@@ -9,8 +9,6 @@ group: Developer Guides
 subgroup: Developing plugins
 ---
 
-<div class="toc-list"></div>
-
 # Plugin guidelines
 
 There are some issues we come across frequently, when reviewing plugins for the

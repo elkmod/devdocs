@@ -23,8 +23,6 @@ Shopware uses the database for session handling by default. This article will ex
 alternatives.
 
 
-<div class="toc-list"></div>
-
 ## General concept
 
 By default Shopware uses the database for storing user sessions. So in smaller and mid-size setups you will not need

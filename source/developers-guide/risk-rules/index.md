@@ -12,8 +12,6 @@ menu_order: 40
 
 Shopware 5.1.2 introduced a new event to provide custom risk rules: `Shopware_Modules_Admin_Execute_Risk_Rule_sRisk[RiskName]`.
 
-<div class="toc-list"></div>
-
 ## Extend Risk Management Backend Module
 
 To add a new risk rule to the ExtJS store used by the backend module

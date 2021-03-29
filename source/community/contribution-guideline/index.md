@@ -11,8 +11,6 @@ redirect:
   - /contributing/contribution-guideline/
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 First of all, thank you! You have decided to contribute code to our software and become a member of the large shopware community. We appreciate your hard work and want to handle it with the most possible respect.
 

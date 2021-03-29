@@ -21,8 +21,6 @@ The `Shopware.grid.Panel` for the listing was implemented in `Resources/views/ba
 
 The `Shopware.window.Listing` in `Resources/views/backend/swag_product_listing/view/list/window.js`.
 
-<div class="toc-list"></div>
-
 ## Shopware.window.Listing Basics
 The `Shopware.window.Listing` component, hereinafter referred to as listing window, does not contain many configuration options and therefore it's quickly explained. The listing window is usually used as startup window of an application and has been defined in our main controller last time. As requirements you have the `listingGrid` and `listingStore` property. Here you have to define the class names of our `Shopware.grid.Panel` and `Shopware.store.Listing`.
 

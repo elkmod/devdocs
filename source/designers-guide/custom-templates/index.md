@@ -9,8 +9,6 @@ menu_title: Adding custom templates
 menu_order: 20
 ---
 
-<div class="toc-list"></div>
-
 ## Custom category templates
 To be more flexible when building different product pages you are able to create your own custom category templates. Your template will be selectable in the backend category settings and can be configured for every single category.
 

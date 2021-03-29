@@ -25,8 +25,6 @@ The following plugin will be the basis for this tutorial. If you don't have it a
 
 </div>
 
-<div class="toc-list"></div>
-
 ## Process large data sets
 To help you process large data sets, Shopware provides you with the `Shopware.window.Progress` component. This component allows you to iterate and run through a list of tasks. For example, the `Shopware.grid.Panel` uses this component to delete multiple items at once: 
 

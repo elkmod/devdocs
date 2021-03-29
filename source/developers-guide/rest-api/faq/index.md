@@ -15,8 +15,6 @@ menu_title: REST API FAQ
 menu_order: 150
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This article is a summary of problems that are reported frequently and the solutions to those problems. 
 

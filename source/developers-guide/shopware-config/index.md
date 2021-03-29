@@ -9,8 +9,6 @@ menu_title: config.php settings
 menu_order: 45
 ---
  
-<div class="toc-list"></div>
-
 ## Introduction
 
 In this guide we will take a closer look at the configuration file `config.php`.

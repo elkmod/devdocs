@@ -14,8 +14,6 @@ menu_title: Cheat-Sheet
 menu_order: 1
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 This article will give you brief information about often used functionalities, methods and good practises for developers, who are working on shopware.

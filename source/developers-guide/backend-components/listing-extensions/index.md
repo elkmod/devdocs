@@ -25,8 +25,6 @@ The following plugin will be the basis for this tutorial. If you don't have it a
 
 </div>
 
-<div class="toc-list"></div>
-
 ## About Listing Extensions
 
 Shopware provides you with the following components for listing extensions:

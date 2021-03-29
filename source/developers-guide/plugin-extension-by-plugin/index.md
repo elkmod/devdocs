@@ -14,8 +14,6 @@ menu_title: Extend an existing plugin
 menu_order: 110
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This document will describe how existing plugins can be extended.
 

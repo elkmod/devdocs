@@ -9,8 +9,6 @@ menu_title: Responsive images
 menu_order: 50
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 The Shopware default Responsive theme is a fully responsive cross-browser compatible high definition ready theme. This quick tip will introduce you to the "responsive" way of working with images in the Shopware Responsive theme. Working with static widths is a thing of the past. Therefore, the optimal size of the images is often a question. Shopware's solution for this problem is the thumbnail generator in combination with the `picture` element.

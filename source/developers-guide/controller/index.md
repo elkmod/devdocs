@@ -16,8 +16,6 @@ Whenever you want to create your own custom pages, AJAX or API endpoints, you wi
 Generally speaking, a controller links the model of your application (e.g. the database logic and business logic)
 with the representation / view of your application (e.g. template). The controller also handles user input - in web application this usually boils down to handle requests and GET or POST params.
 
-<div class="toc-list"></div>
-
 ## Controller and URLs
 In Shopware, all requests will be dispatched to the corresponding controller. Internally, any request is mapped to an URL
 like this: `http://my-shop.com/frontend/listing/index`. Speaking of controllers, the following parts can be distinguished:

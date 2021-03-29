@@ -9,8 +9,6 @@ menu_title: Using composer with Shopware
 menu_order: 32
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 Starting with v5.4 Shopware supports installing a shop as a [Composer dependency](https://github.com/shopware/composer-project)

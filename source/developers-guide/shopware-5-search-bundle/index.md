@@ -11,8 +11,6 @@ menu_order: 120
 
 The `Shopware\Bundle\SearchBundle` defines how Shopware searches for different product lists. Classes defined inside this bundle are independent from the underlying search engine, and can be reused across different search engine implementations.
 
-<div class="toc-list"></div>
-
 ## Concept - Small example
 
 The following example selects a list of products assigned to the category with id 3 and sorts the result set

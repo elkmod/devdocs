@@ -14,8 +14,6 @@ menu_title: Elasticsearch setup
 menu_order: 60
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 For shops that contain millions of different products, Shopware 5 requires an alternative to MySQL to be able to provide an optimal user experience in terms of both functionality and speed.

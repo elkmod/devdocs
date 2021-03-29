@@ -10,8 +10,6 @@ menu_title: Google PageSpeed
 menu_order: 55
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 PageSpeed is a tool by Google to indicate the performance of a website. It checks the site for some of the best practice techniques in web development. Google wants to ensure that every site offers a great experience for the user. It is not clear, if the ranking of the tool really affects the visibility of the site in the Google search algorithm. Although the performance of your website has an affect at the bounce rate and the user experience. So a better ranking in the PageSpeed tool is always a good goal you should work on.

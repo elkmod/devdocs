@@ -10,8 +10,6 @@ menu_title: Testing with Karma
 menu_order: 130
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 [Karma](http://karma-runner.github.io/) is a JavaScript test runner for Shopware's storefront. The tests themselves are written in [Jasmine](http://jasmine.github.io/).
 

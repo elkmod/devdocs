@@ -9,8 +9,6 @@ menu_title: Example: Custom listing page
 menu_order: 30
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 In this tutorial you will learn how to create your own custom template for category listing pages. In this example we want to customize the CMS content, replace the default product listing, extend the default product box and add a few styling adjustments. This custom template can be used for products (or product streams) that should be distinctively presented, like a new clothing series.

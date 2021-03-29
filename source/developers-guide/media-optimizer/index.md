@@ -17,8 +17,6 @@ menu_order: 300
 
 The service `shopware_media.optimizer_service` optimizes files using external tools after uploading them using the media manager.
 
-<div class="toc-list"></div>
-
 ## General
 
 The optimisation of your media files is made lossless, your files will not be compressed. The optimisation only strips meta data and for displaying unnecessary data to shrink the filesize. To compress the files, you should still use the shopware internal compression.

@@ -12,8 +12,6 @@ menu_title: Create custom emotion preset plugin
 menu_order: 30
 ---
 
-<div class="toc-list"></div>
-
 <img src="img/screen-presets.jpg" alt="Preset selection" class="image-border" />
 
 ## Introduction

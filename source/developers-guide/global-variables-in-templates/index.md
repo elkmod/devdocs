@@ -16,8 +16,6 @@ menu_order: 200
 
 In this article we will show how to assign global variables to all frontend templates using a small plugin based on the 5.2 plugin system.
 
-<div class="toc-list"></div>
-
 ## Register event
 Since we want to add our global variables only to frontend templates we register to the secure post dispatches of frontend and widgets.  
 __Attention:__ The plugin should not do some performance sensitive tasks here, otherwise each request in the storefront will be slowed down. Furthermore the assigned variables may not be compatible with the HTTP cache.

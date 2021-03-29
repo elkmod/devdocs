@@ -15,8 +15,6 @@ In this document, developers will find details about changes made in the differe
 This document only covers the main changes done in each version. For a comprehensive change list of all Shopware versions,
 including minor and bugfix releases, refer to the `UPGRADE.md` file found in your Shopware installation.
 
-<div class="toc-list"></div>
-
 ## Shopware 5.7
 
 ### System requirements changes

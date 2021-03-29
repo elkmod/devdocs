@@ -9,8 +9,6 @@ menu_title: Plugin update guide
 menu_order: 100
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 In this guide we provide you with all essential information you need to keep your plugins Shopware 5.3 compatible.

@@ -15,8 +15,6 @@ menu_order: 80
 
 The address management allows a customer to manage more than only one address which gets changed with every order. The customer is now able to create more addresses, e.g. for home and work, and use them later on in an order without losing all existing address data. He can just change the reference to the default billing address, instead of changing it entirely.
 
-<div class="toc-list"></div>
-
 ## Address Service
 
 The address service is used to manage all address entities in Shopware. It only works with models which makes it easy to comprehend, which properties are available and can be used. To know which properties are available, please refer to the model `\Shopware\Models\Customer\Address` in the source code.

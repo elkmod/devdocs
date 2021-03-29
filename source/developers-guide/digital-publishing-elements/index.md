@@ -13,8 +13,6 @@ menu_title: Create custom digital publishing elements
 menu_order: 20
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 Digital Publishing is introduced in Shopware 5.1.0 as a new advanced feature. The new backend module enables you to design custom HTML banners right inside of Shopware and use them, for example, in the shopping worlds. In a layout tree, you can create new design layers to add different elements like texts, images, or even button elements and place them over different background types. To unleash the full potential of this new feature, we created the possibility for third party developers to create custom elements for this module. In this article, we want to show you how to get started with your own Digital Publishing element. As an example, we will build a fully functional YouTube element. At the end of this article, you will find a download link to get the complete example plugin.
 

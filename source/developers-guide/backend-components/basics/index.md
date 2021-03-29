@@ -67,8 +67,6 @@ To do so, you can add the following configuration to your `config.php`:
 
 </div>
 
-<div class="toc-list"></div>
-
 ## PHP Implementation
 The backend contains some Shopware specific components, which are based on different ExtJs modules. By using these components, you can reduce the amount of time and code needed to develop your own modules, especially when [prototyping](https://en.wikipedia.org/wiki/Software_prototyping).
 

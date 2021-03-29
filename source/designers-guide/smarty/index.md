@@ -9,8 +9,6 @@ menu_title: Getting started with Smarty
 menu_order: 30
 ---
 
-<div class="toc-list"></div>
-
 ## What is Smarty?
 
 > Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.

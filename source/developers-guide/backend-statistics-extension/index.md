@@ -17,8 +17,6 @@ menu_order: 75
 
 This tutorial shows the extension of the statistics module with own statistics.
 
-<div class="toc-list"></div>
-
 ## PHP implementation
 
 ### Plugin base class

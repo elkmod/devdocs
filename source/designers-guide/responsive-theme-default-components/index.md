@@ -9,8 +9,6 @@ menu_title: Using the theme default components
 menu_order: 60
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 Within the new Shopware 5 Responsive Theme we provide you with many reusable components for easier template and plugin development. With our default components you can create buttons, panels, alert messages and other UI elements by using simple HTML code snippets. You can use these snippets within your smarty template `*.tpl` files.
 

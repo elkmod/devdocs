@@ -15,8 +15,6 @@ menu_title: Extend a REST API resource
 menu_order: 140
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This article will provide a small example on how to extend the existing REST API resources. As of Shopware 5.2.17 the resources are loaded as services to the dependency injection container and can be easily decorated.
 

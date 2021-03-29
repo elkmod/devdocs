@@ -9,8 +9,6 @@ menu_title: Create custom payment plugin
 menu_order: 35
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This tutorial will point out some important information for adding a new payment method to shopware. This is done by creating a payment plugin. Payment handling is essential for every shop and therefore a payment plugin needs some extra features to guarantee secure and comfortable payments. 
 

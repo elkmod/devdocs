@@ -21,8 +21,6 @@ The `Shopware.window.Detail` for the detail window was implemented in `Resources
 
 The `Shopware.model.Container` for more detailed configuration of the detail window in `Resources/views/backend/swag_product_detail/view/list/window.js`.
 
-<div class="toc-list"></div>
-
 ## Shopware.window.Detail Basics
 The `Shopware.window.Detail` component, hereinafter referred to as detail window, is the entry to manage a record in detail and is defined as `detailWindow` in the `Shopware.grid.Panel`. The `Shopware.grid.Panel` calls the detail window with a single record. This is the only requirement for this component to work. The detail window will then create the view based on the `Shopware.data.Model`. That's why we create a relation in the `configure()` method right inside of the `Shopware.data.Model`.
 

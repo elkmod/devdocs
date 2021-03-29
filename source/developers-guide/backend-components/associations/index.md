@@ -25,8 +25,6 @@ The detail and listing windows are already defined, but not customized yet. Ther
 
 </a>
 
-<div class="toc-list"></div>
-
 ## PHP Implementation
 
 The previous tutorials described how to display simple data structures. This tutorial will extend the product model with the following elements:

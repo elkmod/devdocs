@@ -13,8 +13,6 @@ menu_title: 3D Product visualization
 menu_order: 0
 ---
 
-<div class="toc-list"></div>
-
 The 3D product visualization using our [SwagThreeSixty product viewer](https://github.com/shopwareLabs/SwagThreeSixtyViewer) was one of the research topics we presented on the [SCD '17](https://en.shopware.com/news/community-day/2017/). In this document we will take a closer look at some of the aspects of it, like how to create your own 3D content as well as some useful tips & tricks on how to use the module.
 
 ## Overview

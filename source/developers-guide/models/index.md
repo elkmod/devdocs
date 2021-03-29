@@ -17,8 +17,6 @@ In addition, Doctrine offers the ability to centrally define all queries in a si
 
 In order to create models for your plugin, you should create a directory named `Models`.
 
-<div class="toc-list"></div>
-
 ## Namespaces
 
 Shopware models make use of the PHP namespaces. This makes it possible to create your own product model in a plugin, without interfering with the default Shopware product model. With classes defined in other namespaces, it is not always necessary to use the full namespace. We can *include* them with an `use` statement:

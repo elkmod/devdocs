@@ -9,8 +9,6 @@ group: Developer Guides
 subgroup: Developing plugins
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 This guide shows how the full plugin system of Shopware 5 works. As part of this guide, we will create a small example plugin, which can be downloaded <a href="{{ site.url }}/exampleplugins/SwagPluginSystem.zip">here</a>.
 

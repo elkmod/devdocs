@@ -9,8 +9,6 @@ menu_title: Smarty Plugins
 menu_order: 55
 ---
 
-<div class="toc-list"></div>
-
 # Smarty plugins #
 
 Several more Smarty plugins are available in the current Shopware version. This makes it even easier to deal with currencies, data (times), configurations, links and paths in the template. Below you will find all the information needed to use these plugins in your Smarty template.

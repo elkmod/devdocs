@@ -16,8 +16,6 @@ subgroup: Developing plugins
 When writing object oriented code, you will usually need small, reusable services that encapsulate certain parts of your business logic.
 This tutorial will cover the creation of services and how to use them together with Shopware's DI container.
 
-<div class="toc-list"></div>
-
 ## Services
 Ideally a service is just a simple PHP class with only one responsibility:
 

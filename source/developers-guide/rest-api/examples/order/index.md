@@ -9,8 +9,6 @@ group: Developer Guides
 subgroup: REST API
 ---
 
-<div class="toc-list"></div>
-
 ## Introduction
 
 In this article you can read more about using the orders resource.
