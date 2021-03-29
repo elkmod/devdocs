@@ -10,8 +10,6 @@ group: Developer Guides
 subgroup: REST API
 ---
 
-<div class="toc-list" data-depth="1"></div>
-
 ## Address
 
 * **Model:** Shopware\Models\Customer\Address
